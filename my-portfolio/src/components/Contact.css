@@ -1,0 +1,26 @@
+/* src/components/Contact.css */
+.form-control {
+    border-radius: 0;
+    box-shadow: none;
+    border-color: #bdc3c7;
+  }
+  
+  .form-control:focus {
+    border-color: #2980b9;
+    box-shadow: none;
+  }
+  
+  .btn-primary {
+    background-color: #2980b9;
+    border-color: #2980b9;
+  }
+  
+  .btn-primary:hover {
+    background-color: #3498db;
+    border-color: #3498db;
+  }
+  
+  h2 {
+    color: #34495e;
+  }
+  
